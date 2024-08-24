@@ -1,22 +1,3 @@
-# Django Rest Framework Starter
+# Flood 2024 API
 
-A very simple Django Rest Framework Starter boilerplate Simple JWT, Postgres, Djoser, Pagination, S3 etc.
-
-## How to use
-
-### Create a postgres db
-
-To create a postgres db in mac terminal:
-
-- `createdb db_name`
-- `psql postgres`
-- `GRANT ALL PRIVILEGES ON DATABASE db_name TO postgres;`
-- `\q`
-
-### Clone the repo
-
-### Create .env file and replace the environment variables properly
-
-### Collectstatics, makemigrations, migrate
-
-Done!
+A Django Rest API for a voluntary project for the devastating flood of 2024 in Bangladesh.
